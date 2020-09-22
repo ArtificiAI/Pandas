@@ -5,7 +5,7 @@ Ce dépôt se veut d'être un document d'aide pour les fonctions de Pandas pour 
 Sentez-vous bien à l'aise de partager et d'exploiter cet outil et même d'y contribuer.
 
 ## Table des matières
-- [Introduction au ETL (Extraction transformation et load (chargement))](https://github.com/ArtificiAI/Pandas/blob/master/Introduction_ETL_Pandas.ipynb)
+- [Introduction au ETL (Extraction transformation et load (chargement))](https://github.com/ArtificiAI/Pandas/blob/master/Introduction_ETL_Pandas/Introduction_ETL_Pandas.ipynb)
 
 ## Licence
 Ce projet est publié sous la licence Open GPL v3.
